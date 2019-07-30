@@ -1,0 +1,219 @@
+{
+  "name": "joomla",
+  "version": "4.0.0",
+  "description": "Joomla CMS",
+  "license": "GPL-2.0+",
+  "assets": {
+    "awesomplete": {
+      "package": "awesomplete",
+      "name": "awesomplete",
+      "version": "1.1.4",
+      "dependencies": [],
+      "js": [
+        "media/vendor/awesomplete/js/awesomplete.min.js"
+      ],
+      "css": [
+        "media/vendor/awesomplete/css/awesomplete.css"
+      ],
+      "attribute": {}
+    },
+    "bootstrap.js": {
+      "package": "bootstrap",
+      "name": "bootstrap.js",
+      "version": "4.3.1",
+      "dependencies": [
+        "jquery"
+      ],
+      "js": [
+        "media/vendor/bootstrap/js/bootstrap.min.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "bootstrap.js.bundle": {
+      "package": "bootstrap",
+      "name": "bootstrap.js.bundle",
+      "version": "4.3.1",
+      "dependencies": [
+        "jquery"
+      ],
+      "js": [
+        "media/vendor/bootstrap/js/bootstrap.bundle.min.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "bootstrap.css": {
+      "package": "bootstrap",
+      "name": "bootstrap.css",
+      "version": "4.3.1",
+      "dependencies": [],
+      "js": [],
+      "css": [
+        "media/vendor/bootstrap/css/bootstrap.min.css"
+      ],
+      "attribute": {}
+    },
+    "bootstrap.css.grid": {
+      "package": "bootstrap",
+      "name": "bootstrap.css.grid",
+      "version": "4.3.1",
+      "dependencies": [
+        "bootstrap.css"
+      ],
+      "js": [],
+      "css": [
+        "media/vendor/bootstrap/css/bootstrap-grid.min.css"
+      ],
+      "attribute": {}
+    },
+    "cropperjs": {
+      "package": "cropperjs",
+      "name": "cropperjs",
+      "version": "1.2.2",
+      "dependencies": [],
+      "js": [
+        "media/vendor/cropperjs/js/cropper.min.js"
+      ],
+      "css": [
+        "media/vendor/cropperjs/css/cropper.min.css"
+      ],
+      "attribute": {}
+    },
+    "choicesjs": {
+      "package": "choices.js",
+      "name": "choicesjs",
+      "version": "7.0.0",
+      "dependencies": [],
+      "js": [
+        "media/vendor/choicesjs/js/choices.min.js"
+      ],
+      "css": [
+        "media/vendor/choicesjs/css/choices.min.css"
+      ],
+      "attribute": {}
+    },
+    "diff": {
+      "package": "diff",
+      "name": "diff",
+      "version": "3.4.0",
+      "dependencies": [],
+      "js": [
+        "media/vendor/diff/js/diff.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "dragula": {
+      "package": "dragula",
+      "name": "dragula",
+      "version": "3.7.2",
+      "dependencies": [],
+      "js": [
+        "media/vendor/dragula/js/dragula.min.js"
+      ],
+      "css": [
+        "media/vendor/dragula/css/dragula.min.css"
+      ],
+      "attribute": {}
+    },
+    "focus-visible": {
+      "package": "focus-visible",
+      "name": "focus-visible",
+      "version": "4.1.5",
+      "dependencies": [],
+      "js": [
+        "media/vendor/focus-visible/js/focus-visible.min.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "fontawesome-free": {
+      "package": "@fortawesome/fontawesome-free",
+      "name": "fontawesome-free",
+      "version": "5.8.1",
+      "dependencies": [],
+      "js": [],
+      "css": [
+        "media/vendor/fontawesome-free/css/fontawesome.min.css"
+      ],
+      "attribute": {}
+    },
+    "jquery": {
+      "package": "jquery",
+      "name": "jquery",
+      "version": "3.4.1",
+      "dependencies": [],
+      "js": [
+        "media/vendor/jquery/js/jquery.min.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "jquery-migrate": {
+      "package": "jquery-migrate",
+      "name": "jquery-migrate",
+      "version": "3.0.1",
+      "dependencies": [
+        "jquery"
+      ],
+      "js": [
+        "media/vendor/jquery-migrate/js/jquery-migrate.min.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "punycode": {
+      "package": "punycode",
+      "name": "punycode",
+      "version": "1.4.1",
+      "dependencies": [],
+      "js": [
+        "media/vendor/punycode/js/punycode.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "minicolors": {
+      "package": "@claviska/jquery-minicolors",
+      "name": "minicolors",
+      "version": "2.2.6",
+      "dependencies": [
+        "jquery"
+      ],
+      "js": [
+        "media/vendor/minicolors/js/jquery.minicolors.min.js"
+      ],
+      "css": [
+        "media/vendor/minicolors/css/jquery.minicolors.css"
+      ],
+      "attribute": {}
+    },
+    "css-vars-ponyfill": {
+      "package": "css-vars-ponyfill",
+      "name": "css-vars-ponyfill",
+      "version": "1.17.2",
+      "dependencies": [],
+      "js": [
+        "media/vendor/css-vars-ponyfill/js/css-vars-ponyfill.min.js"
+      ],
+      "css": [],
+      "attribute": {}
+    },
+    "chosen": {
+      "package": "chosen-js",
+      "name": "chosen",
+      "version": "1.6.2",
+      "dependencies": [
+        "jquery"
+      ],
+      "js": [
+        "media/vendor/chosen/js/chosen.jquery.js"
+      ],
+      "css": [
+        "media/vendor/chosen/css/chosen.css"
+      ],
+      "attribute": {}
+    }
+  }
+}
