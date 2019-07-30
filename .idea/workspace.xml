@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ad9fc0-9703-476f-bb08-0a437c530510" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/com_modules/forms/filter_modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/components/com_modules/forms/filter_modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.php" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/language/en-GB/en-GB.mod_tags_similar.ini" beforeDir="false" afterPath="$PROJECT_DIR$/language/en-GB/en-GB.mod_tags_similar.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/autoload_psr4.php" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/autoload_psr4.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,6 +64,7 @@
       <option name="presentableId" value="Default" />
       <updated>1564487284234</updated>
       <workItem from="1564487285760" duration="595000" />
+      <workItem from="1564490789043" duration="369000" />
     </task>
     <servers />
   </component>
@@ -72,7 +76,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
